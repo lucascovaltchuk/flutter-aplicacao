@@ -1,4 +1,4 @@
-# mobile
+# MOBILE
 
 A new Flutter project.
 
