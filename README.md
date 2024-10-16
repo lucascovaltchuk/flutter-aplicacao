@@ -3,7 +3,7 @@
 ## INSTRUÇÕES DE COMO EXECUTAR O PROJETO
 
 ### Back-end (API)
-1. **Vá para a pasta** chamada `back-end/api`.
+1. **Vá para a pasta** chamada `backend/api`.
 2. **Execute o comando** abaixo para iniciar o servidor:
    ```bash
    json-server --watch db.json
