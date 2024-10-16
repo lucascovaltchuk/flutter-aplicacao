@@ -25,7 +25,7 @@ Todas as operações de CRUD (criar, ler, atualizar, deletar) serão realizadas 
 Tema do Projeto:
 O tema central desta aplicação será uma Aplicação Bancária, onde o usuário poderá realizar o cadastro e gerenciamento de dados simulando uma aplicação financeira.
 
-6. Vá para a pasta chamada "back-end/api".
+6. Vá para a pasta chamada "backend/api".
 - Dentro dessa pasta, execute o seguinte comando: json-server --watch db.json
 7. Abra o terminal (ou linha de comando).
 - Para instalar o json-server globalmente no seu computador, execute o seguinte comando: npm i -g json-server
